@@ -24,7 +24,7 @@ const timeline = () => {
 			title: 'Udemy Online Courses',
 			location: 'Islington, London',
 			description: 'UX/UI Design Theory & Essentials for Adobe XD',
-			date: 'September 2020 - March 2021',
+			date: 'September 2020 - Current',
 			icon: 'work'
 		},
 		{
@@ -32,15 +32,15 @@ const timeline = () => {
 			title: 'Tech Hardware Warehouse Job',
 			location: 'Islington, London',
 			description: 'I begin my part-time employment within a warehouse-based role packing technological hardware',
-			date: 'November 2020 - Current',
+			date: 'November 2020 - May 2022',
 			icon: 'work'
 		},
 		{
 			id: 4,
-			title: 'Side Projects',
+			title: 'Personal UX Design Projects',
 			location: 'Islington, London',
 			description: 'Identified my own personal projects and applied my knowledge obtained through university & online courses.',
-			date: 'March 2021 - May 2021',
+			date: 'March 2021 - Current',
 			icon: 'work'
 		},
 		{
@@ -48,23 +48,23 @@ const timeline = () => {
 			title: 'General Assembly',
 			location: 'Witechapel, London',
 			description: 'Attended various talks and meetups to gain inside knowledge about the industry and networking with other designers.',
-			date: 'January 2020',
+			date: 'January - February 2020',
 			icon: 'work'
 		},
 		{
 			id: 6,
-			title: 'Studied Webflow and Figma',
+			title: 'Studied Adobe XD and Figma',
 			location: 'Islington, London',
 			description: 'These programmes are essential for this industry to become proficient',
-			date: 'May 2021 - August 2021',
+			date: 'May 2021 - January 2022',
 			icon: 'work'
 		},
 		{
 			id: 8,
-			title: 'Bartender',
+			title: 'Bar staff',
 			location: 'London',
-			description: 'Worked various bars and events around London',
-			date: 'June 2020 - August 2020',
+			description: 'Worked various bars and events around the UK',
+			date: 'June 2020 - Current',
 			icon: 'work'
 		}
 	];
